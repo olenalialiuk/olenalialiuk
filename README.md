@@ -1,16 +1,27 @@
-### Hi there 👋
+[![header](assets/header.png)](https://www.figma.com/file/GPfOrovpnvYlzhvb4pwMtX/RESUME1?node-id=1%3A3)
 
-<!--
-**olenalialiuk/olenalialiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Link to resume](https://www.figma.com/file/GPfOrovpnvYlzhvb4pwMtX/RESUME1?node-id=1%3A3)
 
-Here are some ideas to get you started:
+### Latest projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[HTML Resume]()
+[Test cases]()
+[Python]()
+[Figma resume]()
+[SQL]()
+
+### Languages and tools:
+
+![Python](https://img.shields.io/badge/-Pyhon-64c9dd?style=for-the-badge&logo=python)
+![sql](https://img.shields.io/badge/sql-64c9dd?style=for-the-badge&logo=MySQL)
+![HTML](https://img.shields.io/badge/HTML-64c9dd?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/CSS-64c9dd?style=for-the-badge&logo=CSS)
+
+![API](https://img.shields.io/badge/API-64c9dd?style=for-the-badge&logo=API)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-64c9dd?style=for-the-badge&logo=AutoCAD)
+
+### Contacts:
+
+![Gmail](https://img.shields.io/badge/Gmail-64c9dd?style=for-the-badge&logo=gmail)
+![Telegram](https://img.shields.io/badge/telegram-64c9dd?style=for-the-badge&logo=telegram)
+![Mobile](https://img.shields.io/badge/Mobile-0675957924-64c9dd?style=for-the-badge&logo=Kyivstar)
