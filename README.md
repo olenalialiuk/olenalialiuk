@@ -2,7 +2,7 @@
 
 ### My CV
 
-### [Link to resume](https://www.figma.com/file/GPfOrovpnvYlzhvb4pwMtX/RESUME1?node-id=1%3A3)
+[Link to resume](https://resume-olena-lialiuk.netlify.app/)
 
 ### Testing Documentation:
 
