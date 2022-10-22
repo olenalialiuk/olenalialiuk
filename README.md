@@ -32,3 +32,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-64c9dd?style=for-the-badge&logo=gmail)](olenalialyuk@gmail.com)
 [![Telegram](https://img.shields.io/badge/telegram-64c9dd?style=for-the-badge&logo=telegram)](https://t.me/OlenaLialiuk)
 ![Mobile](https://img.shields.io/badge/Mobile-0675957924-64c9dd?style=for-the-badge&logo=Kyivstar)
+
+[![olenalialiuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=olenalialiuk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olenalialiuk&repo=olenalialiuk)](https://github.com/olenalialiuk/olenalialiuk)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olenalialiuk&layout=compact)](https://github.com/olenalialiuk/olenalialiuk)
